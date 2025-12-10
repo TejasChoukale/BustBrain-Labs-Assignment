@@ -343,9 +343,9 @@ https://your-backend-url.com/auth/airtable/callback
 
 MIT
 
-## 👥 Contributors
+##
 
-Your Name - Initial work
+Tejas Choukale - All work
 
 ## 🙏 Acknowledgments
 
